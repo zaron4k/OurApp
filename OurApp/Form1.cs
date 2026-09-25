@@ -19,7 +19,7 @@ namespace OurApp
 
         private void button1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Добро пожаловать!");
+            MessageBox.Show("Доброе утро!");
         }
     }
 }
